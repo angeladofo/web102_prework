@@ -23,7 +23,7 @@ body {
     display: flex;
     align-items:flex-start;
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    
 }
 
 .stats-card {
