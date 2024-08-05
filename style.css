@@ -9,6 +9,10 @@ body {
     width: 50px;
 }
 
+.adjust-cursor {
+    cursor: pointer;
+}
+
 .header {
     display: flex;
     background-color: lightblue;
