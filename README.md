@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-(/PreWorkCrowdfund.gif)
+![My-gif](/PreWorkCrowdfund.gif)
 <!-- <img src='https://imgur.com/MynkhJ8' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
